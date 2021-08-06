@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434069995905",
+    "project_id": "brewcrew-434d4",
+    "storage_bucket": "brewcrew-434d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434069995905:android:9a5e80afc301a18eda2880",
+        "android_client_info": {
+          "package_name": "com.PranavGupta.brew_crew_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434069995905-i18ttgemsj4uei4bjb6ueu4o2mehjjj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCirBWW08CJ4apIMpHKW6iCRiv_92v1gqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434069995905-i18ttgemsj4uei4bjb6ueu4o2mehjjj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
